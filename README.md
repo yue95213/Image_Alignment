@@ -8,5 +8,6 @@
 
 
 *Comparement
+
 2,3 are more robust for global intensity change.
 3 is much more faster than 2.
