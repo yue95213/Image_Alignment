@@ -7,6 +7,8 @@
 3. (inverse) Enhanced correlation coefficient method
 
 
+
+
 *Comparement
 
 2,3 are more robust for global intensity change.
